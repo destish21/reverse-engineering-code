@@ -50,9 +50,9 @@
    * When you joining a new team  it displays the team members. 
 
    * Acceptance Criteria.
- a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase 
+     a Node.js application using Sequelize and Passport
+     WHEN I follow the walkthrough
+     THEN I understand the codebase 
 
    * My app stores every users in a database, whether login or logout.
 
@@ -76,20 +76,20 @@ THEN I understand the codebase
 
    * The developer is authorizing a free installation by cloning from the repository code:- 
 
-   * [destish21/burger](https://github.com/destish21/burger)
+   * [destish21/reverse-engineering-code](https://github.com/destish21/reverse-engineering-code)
 
    * you can run by install npm i to include node_module, bcryptjs,express,express-session, mysql2, passport, passport-local, and sequelize .
 
    * you can run by node `nodemon server.js or by node server.js` to Reverse Engineering Code.
 
    # screenshot Images
-   * ![burger](./public/assets/img/Screenshot1.png)
+   * ![reverse-engineering-code](./public/assets/img/Screenshot1.png)
 
-   * ![burger](./public/assets/img/Screenshot2.png)
+   * ![reverse-engineering-code](./public/assets/img/Screenshot2.png)
    
-   * ![burger](./public/assets/img/Screenshot3.png)
+   * ![reverse-engineering-code](./public/assets/img/Screenshot3.png)
 
-   * ![burger](./public/assets/img/Screenshot4.png)
+   * ![reverse-engineering-code](./public/assets/img/Screenshot4.png)
 
 
    ## Usage Instructions
@@ -98,7 +98,7 @@ THEN I understand the codebase
 
    * creat repository in your github, then clone the code from my github repository,
 
-   * [destish21/burger](https://github.com/destish21/burger)
+   * [destish21/reverse-engineering-code](https://github.com/destish21/reverse-engineering-code)
 
    * Install all necessary  node_moduales like bcryptjs,express,express-session, mysql2, passport, passport-local, and sequelize.
 
@@ -131,11 +131,11 @@ App !!`  will be desplayed after you SinUp and login as members !.
 
    <!-- * burger logger image Referece Google -->
  
-   ![burger](./public/assets/img/MyBurgerApp.png)
+   ![reverse-engineering-code](./public/assets/img/MyBurgerApp.png)
     
    ## Contribution
   
-   * This is Contributed by [destish21/burger](https://github.com/destish21/burger). 
+   * This is Contributed by [destish21/reverse-engineering-code](https://github.com/destish21/reverse-engineering-code). 
    
    * But Contribution, issues and feature requests are welcome.
    * Feel free to check issues page if you want to contribute. 
@@ -144,7 +144,7 @@ App !!`  will be desplayed after you SinUp and login as members !.
    ## Developers Contact Information
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
    * Deployed URL : [myburger12](https://myburger12.herokuapp.com/burgers)
-   * github URL :  https://github.com/destish21/burger
+   * github URL :  https://github.com/destish21/reverse-engineering-code
    * MyGoogleDocLink: https://docs.google.com/document/d/12iqx2v9VJpYzte3qu6_S-YBiPkwCYKAXQQhI4bl02zM/edit?usp=sharing
 
    * Email : destish21@yahoo.com
