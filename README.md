@@ -4,7 +4,6 @@
 ## License
    [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  
    # Table of Contents
 
    * [Description](#Description)
@@ -25,13 +24,13 @@
 
    * This application is developed to create a tutorial for the code.
    * This application uses an express backend and save and retrieve node data from Sequelize a mysql. 
-   * In Develop folder I got starter code for a project and I started to under stand each folders and  files
+   * In Develop folder I got starter code for a project and I started to under stand each  folders and  files
    * I explained or I wrote about the functions of each folders and files on Google Doc a tutorial explaining. 
    * I included in package.js as dependence
 
    * npm init
 
-  * That is a given dependence
+   * That is a given dependence
 
    * npm install express
 
@@ -56,13 +55,12 @@
 
    * My app stores every users in a database, whether login or logout.
 
-
    #  Runing a command-line application 
 
    * You can Add to User email password.
+   
    * You can View seen the user's email and password on database.
  
-
    * You can View the stored database in a database whether create table or not.
 
    * The app runs as a `nodemon server.js or node server.js` to gather information about each members. 
@@ -78,19 +76,12 @@
 
    * [destish21/reverse-engineering-code](https://github.com/destish21/reverse-engineering-code)
 
-   * you can run by install npm i to include node_module, bcryptjs,express,express-session, mysql2, passport, passport-local, and sequelize .
+   * you can run by install npm i to include node_module, bcryptjs,express,express-session,  mysql2, passport, passport-local, and sequelize .
 
    * you can run by node `nodemon server.js or by node server.js` to Reverse Engineering Code.
 
    # screenshot Images
-   * ![reverse-engineering-code](./public/assets/img/Screenshot1.png)
-
-   * ![reverse-engineering-code](./public/assets/img/Screenshot2.png)
-   
-   * ![reverse-engineering-code](./public/assets/img/Screenshot3.png)
-
-   * ![reverse-engineering-code](./public/assets/img/Screenshot4.png)
-
+   * ![reverse-engineering-code](./Develop/public/assets/images/Screenshot1.png)
 
    ## Usage Instructions
 
@@ -111,7 +102,7 @@
    * You can SinUp to the form and login on the application.
 
    * A `Reverse Engineering Code
-App !!`  will be desplayed after you SinUp and login as members !. 
+     App !!`will be desplayed after you SinUp and login as members !. 
 
    * you can manage you members easly.
 
@@ -126,12 +117,10 @@ App !!`  will be desplayed after you SinUp and login as members !.
 
    * you can  quickly access to emails and GitHub profiles.
 
-   * My `my Reverse Engineering Code
-` is in my github repository enjoy it!
-
-   <!-- * burger logger image Referece Google -->
+   * My `my Reverse Engineering Code`
+    is in my github repository enjoy it!
  
-   ![reverse-engineering-code](./public/assets/img/MyBurgerApp.png)
+   * ![reverse-engineering-code](./Develop/public/assets/images/Screenshot2.png)
     
    ## Contribution
   
@@ -143,10 +132,10 @@ App !!`  will be desplayed after you SinUp and login as members !.
 
    ## Developers Contact Information
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
-   * Deployed URL : [myburger12](https://myburger12.herokuapp.com/burgers)
+   * Deployed URL : N/A
    * github URL :  https://github.com/destish21/reverse-engineering-code
    * MyGoogleDocLink: https://docs.google.com/document/d/12iqx2v9VJpYzte3qu6_S-YBiPkwCYKAXQQhI4bl02zM/edit?usp=sharing
 
    * Email : destish21@yahoo.com
    
-   # Desta Mulualem. All Rights Reserved © 02/16/2021.
+   # Desta Mulualem. All Rights Reserved © 02/23/2021.
